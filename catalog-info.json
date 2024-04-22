@@ -1,0 +1,12 @@
+{
+  "kind": "Component", 
+  "spec": {
+    "owner": "non-mono-catalog-info-json-dhrumit", 
+    "type": "url", 
+    "lifecycle": "experimental"
+  }, 
+  "apiVersion": "backstage.io/v1alpha1", 
+  "metadata": {
+    "name": "nono-mono-catalog-info-json"
+  }
+}
